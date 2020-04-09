@@ -1,7 +1,7 @@
-# Forager
+# Team Name: Quarter Quartet
 
 
-## Project Synopsis
+## Project Synopsis: Forager
 We decided to build an Android scavenger hunt specifically for stanford dorms to be used by dorm staff and students, called Forager. Many dorms tend to host scavenger hunts for students but often struggle with the logistics of such event. This app would assist in the creation and managment of scavenger hunts!
 
 
